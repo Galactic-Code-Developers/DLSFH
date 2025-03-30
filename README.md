@@ -1,2 +1,2 @@
 # DLSFH
-DLSFH Flare Risk Diagnostic Repor
+DLSFH Flare Risk Diagnostic Report
